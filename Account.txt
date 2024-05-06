@@ -1,0 +1,2 @@
+First Name:John||Last Name:Doe||Phone No.:(897)987-0987||Email:jdoe@gmail.com||Date Of Birth:29-11 2009||Username:John11gmail||Password:DJ0987||Likes:||AboutMe:||Friends:||SentByMe:||SentToMe:
+First Name:Avi||Last Name:Katare||Phone No.:(999)999-9999||Email:a@gmail||Date Of Birth:11-11-1111||Username:Avi11gmail||Password:KA9909||Likes:||AboutMe:||Friends:||SentByMe:||SentToMe:
